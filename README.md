@@ -1,7 +1,8 @@
 ## EIP-7702
 
-This is fork of [EIP-7702](https://github.com/ethereum/EIPs/blob/master/EIPS/eip-7702.md)
-This code is from the quicknode docs but with some changes. 
+- This is fork of [EIP-7702](https://github.com/ethereum/EIPs/blob/master/EIPS/eip-7702.md)
+
+- This code is from the quicknode docs but with some changes. 
 
 ## Foundry
 
