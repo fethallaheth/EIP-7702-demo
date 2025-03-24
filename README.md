@@ -1,3 +1,8 @@
+## EIP-7702
+
+This is fork of [EIP-7702](https://github.com/ethereum/EIPs/blob/master/EIPS/eip-7702.md)
+This code is from the quicknode docs but with some changes. 
+
 ## Foundry
 
 **Foundry is a blazing fast, portable and modular toolkit for Ethereum application development written in Rust.**
